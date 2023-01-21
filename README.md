@@ -86,3 +86,4 @@ git flow release finish 0.1.0
 - https://github.com/petervanderdoes/gitflow-avh/wiki/Installation
 - https://keepachangelog.com/pt-BR/0.3.0/
 - https://www.conventionalcommits.org/en/v1.0.0/
+- https://github.com/embeddedartistry/templates
